@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @shahbasharat
-- 👀 I’m interested in flutter, php,html5,Javascript, css
-- 🌱 I’m currently learning flutter 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @shah
+- 👀 Lets code 
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me ...
 https://www.instagram.com/macro_shah/
 https://wa.me/+917006271979
