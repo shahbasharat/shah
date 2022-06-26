@@ -1,6 +1,6 @@
 Hi 👋 My name is shah Basharat
+                                                       (mailto:shahbasharat577@gmail.com)
                                                        
-                                                       Web Developer
                                                        
 Hello, I am Shah from Kashmir, India. I am a Computer Science graduate. I am interested in Web technologies,Block chain developer, Cyber security, Digital forensics ,Custom Android ROMs, Gaming, and Exploring mountains.
 🌍  I'm based in srinagar ( Jammu and Kashmir )
