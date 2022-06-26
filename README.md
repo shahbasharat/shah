@@ -6,8 +6,8 @@
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 🌍  I'm based in srinagar ( Jammu and Kashmir )
-🖥️  See my portfolio at [shah basharat](http://shahbasharat.wordpress.com/)
-✉️  You can contact me at [shahbasharat577@gmail.com](mailto:shahbasharat577@gmail.com)
+🖥️  See my portfolio at (http://shahbasharat.wordpress.com/)
+✉️  You can contact me at (mailto:shahbasharat577@gmail.com)
 🧠  I'm learning javascript
 🤝  I'm open to collaborating on interesting projects
 ⚡  i'm scertly spiderman..... but don't tell anyone
