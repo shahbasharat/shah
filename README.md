@@ -1,5 +1,17 @@
 Hi 👋 My name is shah Basharat
-==============================Web Developer-------------Hi, I’m @shah Lets code currently learning javascript How to reach me ... https://www.instagram.com/macro\_shah/ https://wa.me/+917006271979 Hello, I am Shah from Kashmir, India. I am a Computer Science graduate. I am interested in Web technologies,Block chain developer, Cyber security, Digital forensics ,Custom Android ROMs, Gaming, and Exploring mountains.* 🌍  I'm based in srinagar ( Jammu and Kashmir )* 🖥️  See my portfolio at [shah basharat](http://shahbasharat.wordpress.com/)* ✉️  You can contact me at [shahbasharat577@gmail.com](mailto:shahbasharat577@gmail.com)* 🧠  I'm learning javascript* 🤝  I'm open to collaborating on interesting projects* ⚡  i'm scertly spiderman..... but don't tell anyone
+==============================Web Developer-------------
+Hi, I’m @shah 
+Lets code
+currently learning javascript 
+How to reach me ..
+https://www.instagram.com/macro\_shah/ 
+https://wa.me/+917006271979
+Hello, I am Shah from Kashmir, India. I am a Computer Science graduate. I am interested in Web technologies,Block chain developer, Cyber security, Digital forensics ,Custom Android ROMs, Gaming, and Exploring mountains.* 🌍  I'm based in srinagar ( Jammu and Kashmir )*
+🖥️  See my portfolio at [shah basharat](http://shahbasharat.wordpress.com/)* 
+✉️  You can contact me at [shahbasharat577@gmail.com](mailto:shahbasharat577@gmail.com)* 
+🧠  I'm learning javascript*
+🤝  I'm open to collaborating on interesting projects* 
+⚡  i'm scertly spiderman..... but don't tell anyone
 
 ### Skills
 
