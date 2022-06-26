@@ -21,6 +21,7 @@ Hello, I am Shah from Kashmir, India. I am a Computer Science graduate. I am int
 
 ### Badges
 
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/shahbasharat"><img src="https://github-readme-stats.vercel.app/api?username=shahbasharat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shahbasharat's GitHub stats" /></a>
