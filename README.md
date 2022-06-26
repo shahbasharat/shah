@@ -1,9 +1,10 @@
-Hi 👋 My name is shah Basharat
-                                                          
-                                                         (mailto:shahbasharat577@gmail.com)
-                                                       
-                                                       
-Hello, I am Shah from Kashmir, India. I am a Computer Science graduate. I am interested in Web technologies,Block chain developer, Cyber security, Digital forensics ,Custom Android ROMs, Gaming, and Exploring mountains.
+ 
+ [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+ <h1 align="centre"> Hi 👋 I'm shah </h1>
+ <h3 align="centre"> passionate frontend developer </h3>
+ 
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ 
 🌍  I'm based in srinagar ( Jammu and Kashmir )
 🖥️  See my portfolio at [shah basharat](http://shahbasharat.wordpress.com/)
 ✉️  You can contact me at [shahbasharat577@gmail.com](mailto:shahbasharat577@gmail.com)
