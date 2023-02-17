@@ -1,8 +1,7 @@
-<h1 align="center">
+ [![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://www.pramukhdigital.com/)
+ <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Shah+Basharat" alt="Typing SVG" />
 </h1> 
- [![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://www.pramukhdigital.com/)
- <h1 align="centre"> Hi 👋 I'm shah </h1>
  <h3 align="centre">  A passionate frontend developer </h3>
  
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
