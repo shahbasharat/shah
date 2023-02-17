@@ -6,7 +6,7 @@
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
  🌍  I'm based in srinagar ( Jammu and Kashmir )<br>
-🖥️  See my portfolio at (http://shahbasharat.wordpress.com/)<br>
+🖥️  See my portfolio at (https://shahb.me/)<br>
 ✉️  You can contact me at (mailto:shahbasharat577@gmail.com)<br>
 🧠  I'm learning javascript<br>
 🤝  I'm open to collaborating on interesting projects<br>
